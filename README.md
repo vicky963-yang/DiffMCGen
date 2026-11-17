@@ -51,7 +51,7 @@ of datasets that are currently available.
 ## Checkpoints
 
 
-  - the checkpoints of model train on MOSES, QM9, and CSD datasets were upload at checkpoints files.
+  - the checkpoints of model train on MOSES can be downloaded from `https://drive.google.com/drive/folders/1wlUQLRal1PKdp2i1YYFok1qvd-voGgPL?usp=sharing`, QM9, and CSD datasets were upload at checkpoints files.
 
 
 ## Generated samples
